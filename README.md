@@ -2,7 +2,7 @@
 
 ### Description
 
-Application that lets you create or join a room to watch YouTube videos and chat with your friends in realtime.
+Application that lets you create or join a room to watch YouTube videos and chat with your friends in real time.
 
 ### Technologies used
 
